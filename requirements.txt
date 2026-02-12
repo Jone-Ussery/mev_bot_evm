@@ -3,3 +3,5 @@ bittensor-cli==9.6.0
 substrate-interface
 async-substrate-interface==1.2.2
 xxhash
+dotenv
+web3
